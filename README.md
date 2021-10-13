@@ -1,5 +1,10 @@
-<h1 align="center"> Learn About Robotics </h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84700316/137150196-1b1033bb-4cce-469c-abfc-92f58594ca90.png" width=300px>
+  </p>
 
+
+
+<h1 align="center"> Learn About Robotics </h1>
 
 ## What is Robotics ?
 Robotics is the engineering and operation of machines that can perform physical functions independently or independently on behalf of a person. Robots often perform tasks that are either repetitive or extremely dangerous.
