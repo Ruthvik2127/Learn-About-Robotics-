@@ -12,6 +12,8 @@ Mechanical robots use sensors, actuators and data operations to interact with th
 
 In recent years the field of robotics has begun to take on a new dimension for machine learning and artificial intelligence. To help avoid confusion, the word bot is no longer used to describe a body robot. Instead, it is used to describe a software robot that does not have a repair body.
 
+Robotics, design, construction, and use of machines (robots) to perform tasks done traditionally by human beings. ... Robots are widely used in such industries as automobile manufacture to perform simple repetitive tasks, and in industries where work must be performed in environments hazardous to humans.
+
 
 ## Uses of Robotics on Field 
 The field of robotics has greatly improved with the advent of new technologies. Another increase in big data, which offers an additional opportunity to build planning capacity in robotic systems. Another use of new types of sensors and connected devices is to monitor environmental factors such as temperature, air pressure, light, movement and more. All of this facilitates robots and the production of robots that are sophisticated and advanced in many applications, including manufacturing, health and safety, and human assistance.
