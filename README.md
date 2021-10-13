@@ -14,8 +14,8 @@ The field of robotics has greatly improved with the advent of new technologies. 
 ## Robotics on AI & Future 
 The field of robotics also encounters problems around artificial intelligence. Since robots are units that are physically separate, they are considered to be their own intelligence, even if one is limited by their design and power. This theory has created new controversy over traditional scientific theories, such as Asimov's three laws of robots, which discuss the future interaction of robots with the machine.
 
-## About Ardinuo 
-Ardinuo is one of a open-source platform for making of many various types of projects and robots. Used by many students, hobbyists, artists, programmers, and professionals.
+## About Arduino 
+Arduino is one of a open-source platform for making of many various types of projects and robots. Used by many students, hobbyists, artists, programmers, and professionals.
 Teachers and students use it to build cost-effective science tools, to prove the principles of chemical and physics, or to develop systems and robots. Designers and builders create interactive prototypes, which artists use to install and experiment with new musical instruments. The makers, in fact, use it to build many of the projects .Arduino is a great tool for learning new things. Anyone like  kids or programmers - can start thinking by doin projects from scratch to an expert level .
 
 
